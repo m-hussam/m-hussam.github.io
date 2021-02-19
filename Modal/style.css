@@ -6,7 +6,7 @@ html, body{
 
 html{
     
-    background-image: url('https://images.unsplash.com/photo-1535793903079-e2360500cff1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHdhbGx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60');
+    background-image: url('assets/background.jpeg');
     background-size: cover;
     background-position: center center ;
     font-size: 30px;
